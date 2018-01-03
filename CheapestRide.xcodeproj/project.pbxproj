@@ -427,10 +427,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = K8593PT59X;
+				DEVELOPMENT_TEAM = FU2AQ62GD5;
 				INFOPLIST_FILE = CheapestRide/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.antelopeForest.CheapestRide;
+				PRODUCT_BUNDLE_IDENTIFIER = com.antelopeForest.CheapestRides;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -442,10 +442,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = K8593PT59X;
+				DEVELOPMENT_TEAM = FU2AQ62GD5;
 				INFOPLIST_FILE = CheapestRide/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.antelopeForest.CheapestRide;
+				PRODUCT_BUNDLE_IDENTIFIER = com.antelopeForest.CheapestRides;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
